@@ -29,4 +29,8 @@ class A{
         void MA2(){
             printf("MA2\n");
         }
+        
+        void MA3(){
+            printf("Alteração a classe A partir do clone\n");
+        }
 };
