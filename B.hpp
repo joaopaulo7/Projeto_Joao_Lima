@@ -28,4 +28,7 @@ class B{
         void MB2(){
             printf("MB2\n");
         }
+        void MB3(){
+            printf("MB3\n");
+        }
 };
