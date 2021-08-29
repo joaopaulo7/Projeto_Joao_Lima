@@ -29,4 +29,7 @@ class A{
         void MC2(){
             printf("MC2\n");
         }
+        void MC3(){
+            printf("MC3\n");
+        }
 };
