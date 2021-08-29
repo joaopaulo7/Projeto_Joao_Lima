@@ -29,4 +29,7 @@ class D{
         void MD2(){
             printf("MD2\n");
         }
+        void MD3(){
+            printf("MD3\n");
+        }
 };
